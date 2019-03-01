@@ -1,0 +1,239 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "john",
+      "classroomId": 75
+    },
+    {
+      "id": 2,
+      "name": "john1",
+      "classroomId": 75
+    },
+    {
+      "id": 3,
+      "name": "john2",
+      "classroomId": 60
+    },
+    {
+      "id": 4,
+      "name": "john3",
+      "classroomId": 75
+    },
+    {
+      "id": 5,
+      "name": "john4",
+      "classroomId": 23
+    },
+    {
+      "id": 6,
+      "name": "john5",
+      "classroomId": 75
+    }
+  ],
+  "courses": [
+    {
+      "id": "history",
+      "studentId": 1
+    },
+    {
+      "id": "algebra",
+      "studentId": 1
+    },
+    {
+      "id": "history",
+      "studentId": 2
+    },
+    {
+      "id": "math",
+      "studentId": 2
+    },
+    {
+      "id": "math",
+      "studentId": 3
+    },
+    {
+      "id": "Chinese",
+      "studentId": 4
+    },
+    {
+      "id": "Chinese",
+      "studentId": 3
+    },
+    {
+      "id": "English",
+      "studentId": 6
+    },
+    {
+      "id": "English",
+      "studentId": 4
+    },
+    {
+      "id": "biology",
+      "studentId": 5
+    },
+    {
+      "id": "biology",
+      "studentId": 1
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "score": 30
+    },
+    {
+      "id": 2,
+      "score": 70
+    },
+    {
+      "id": 3,
+      "score": 20
+    },
+    {
+      "id": 4,
+      "score": 170
+    },
+    {
+      "id": 5,
+      "score": 30
+    },
+    {
+      "id": 6,
+      "score": 50
+    }
+  ],
+  "algebra": [
+    {
+      "id": 1,
+      "score": 50
+    },
+    {
+      "id": 2,
+      "score": 70
+    },
+    {
+      "id": 3,
+      "score": 20
+    },
+    {
+      "id": 4,
+      "score": 170
+    },
+    {
+      "id": 5,
+      "score": 30
+    },
+    {
+      "id": 6,
+      "score": 50
+    }
+  ],
+  "math": [
+    {
+      "id": 1,
+      "score": 50
+    },
+    {
+      "id": 2,
+      "score": 70
+    },
+    {
+      "id": 3,
+      "score": 20
+    },
+    {
+      "id": 4,
+      "score": 170
+    },
+    {
+      "id": 5,
+      "score": 30
+    },
+    {
+      "id": 6,
+      "score": 50
+    }
+  ],
+  "Chinese": [
+    {
+      "id": 1,
+      "score": 50
+    },
+    {
+      "id": 2,
+      "score": 70
+    },
+    {
+      "id": 3,
+      "score": 20
+    },
+    {
+      "id": 4,
+      "score": 170
+    },
+    {
+      "id": 5,
+      "score": 30
+    },
+    {
+      "id": 6,
+      "score": 50
+    }
+  ],
+  "English": [
+    {
+      "id": 1,
+      "score": 50
+    },
+    {
+      "id": 2,
+      "score": 70
+    },
+    {
+      "id": 3,
+      "score": 20
+    },
+    {
+      "id": 4,
+      "score": 170
+    },
+    {
+      "id": 5,
+      "score": 30
+    },
+    {
+      "id": 6,
+      "score": 50
+    }
+  ],
+  "biology": [
+    {
+      "id": 1,
+      "score": 50
+    },
+    {
+      "id": 2,
+      "score": 70
+    },
+    {
+      "id": 3,
+      "score": 20
+    },
+    {
+      "id": 4,
+      "score": 170
+    },
+    {
+      "id": 5,
+      "score": 30
+    },
+    {
+      "id": 6,
+      "score": 50
+    }
+  ]
+
+
+}
+
