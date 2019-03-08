@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "自己实现的前端面试题2019 https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514 中文连接 https://juejin.im/post/5bf5610be51d452a1353b08d#heading-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  }
+}
